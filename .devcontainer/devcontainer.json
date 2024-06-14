@@ -1,0 +1,4 @@
+{
+    "image": "cpptest-ct:latest",
+    "runArgs": [ "--rm" ]
+}
