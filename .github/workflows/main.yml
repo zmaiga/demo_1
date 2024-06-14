@@ -2,7 +2,7 @@ name: Unit testing with coverage (master)
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 env:
   LINE_COV_GATE: 70
